@@ -745,8 +745,8 @@ h6 {
 --------------------------------------------------------------*/
 section,
 .section {
-  color: white;
-  background-color: black;
+  color: #fff;
+  background-color:#212529;
   padding: 60px 0;
   scroll-margin-top: 80px;
   overflow: clip;
