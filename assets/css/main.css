@@ -909,7 +909,7 @@ section,
 }
 
 .about .content .fst-italic {
-  color: color-mix(in srgb, #f9f9f9, var(--contrast-color) 10%);
+  color: #fff;
 }
 
 .about .content ul {
