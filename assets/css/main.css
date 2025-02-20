@@ -1046,6 +1046,7 @@ section,
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  color:black;
 }
 
 .services .service-item:hover {
@@ -1690,7 +1691,6 @@ section,
 
 .service-details p {
   font-size: 15px;
-  color:black;
 }
 
 .service-details ul {
